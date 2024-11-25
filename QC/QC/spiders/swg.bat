@@ -1,0 +1,32 @@
+cd C:\QC\QC\spiders
+timeout /t 1 /nobreak
+start "swg_start_0_end_2889" scrapy crawl swg -a start_id=0 -a end_id=2889 -s CONCURRENT_REQUESTS=8
+start "swg_start_2890_end_5779" scrapy crawl swg -a start_id=2890 -a end_id=5779 -s CONCURRENT_REQUESTS=8
+start "swg_start_5780_end_8669" scrapy crawl swg -a start_id=5780 -a end_id=8669 -s CONCURRENT_REQUESTS=8
+start "swg_start_8670_end_11559" scrapy crawl swg -a start_id=8670 -a end_id=11559 -s CONCURRENT_REQUESTS=8
+start "swg_start_11560_end_14449" scrapy crawl swg -a start_id=11560 -a end_id=14449 -s CONCURRENT_REQUESTS=8
+start "swg_start_14450_end_17339" scrapy crawl swg -a start_id=14450 -a end_id=17339 -s CONCURRENT_REQUESTS=8
+start "swg_start_17340_end_20229" scrapy crawl swg -a start_id=17340 -a end_id=20229 -s CONCURRENT_REQUESTS=8
+start "swg_start_20230_end_23119" scrapy crawl swg -a start_id=20230 -a end_id=23119 -s CONCURRENT_REQUESTS=8
+start "swg_start_23120_end_26009" scrapy crawl swg -a start_id=23120 -a end_id=26009 -s CONCURRENT_REQUESTS=8
+start "swg_start_26010_end_28899" scrapy crawl swg -a start_id=26010 -a end_id=28899 -s CONCURRENT_REQUESTS=8
+start "swg_start_28900_end_31789" scrapy crawl swg -a start_id=28900 -a end_id=31789 -s CONCURRENT_REQUESTS=8
+start "swg_start_31790_end_34679" scrapy crawl swg -a start_id=31790 -a end_id=34679 -s CONCURRENT_REQUESTS=8
+start "swg_start_34680_end_37569" scrapy crawl swg -a start_id=34680 -a end_id=37569 -s CONCURRENT_REQUESTS=8
+start "swg_start_37570_end_40459" scrapy crawl swg -a start_id=37570 -a end_id=40459 -s CONCURRENT_REQUESTS=8
+start "swg_start_40460_end_43349" scrapy crawl swg -a start_id=40460 -a end_id=43349 -s CONCURRENT_REQUESTS=8
+start "swg_start_43350_end_46239" scrapy crawl swg -a start_id=43350 -a end_id=46239 -s CONCURRENT_REQUESTS=8
+start "swg_start_46240_end_49129" scrapy crawl swg -a start_id=46240 -a end_id=49129 -s CONCURRENT_REQUESTS=8
+start "swg_start_49130_end_52019" scrapy crawl swg -a start_id=49130 -a end_id=52019 -s CONCURRENT_REQUESTS=8
+start "swg_start_52020_end_54909" scrapy crawl swg -a start_id=52020 -a end_id=54909 -s CONCURRENT_REQUESTS=8
+start "swg_start_54910_end_57799" scrapy crawl swg -a start_id=54910 -a end_id=57799 -s CONCURRENT_REQUESTS=8
+start "swg_start_57800_end_60689" scrapy crawl swg -a start_id=57800 -a end_id=60689 -s CONCURRENT_REQUESTS=8
+start "swg_start_60690_end_63579" scrapy crawl swg -a start_id=60690 -a end_id=63579 -s CONCURRENT_REQUESTS=8
+start "swg_start_63580_end_66469" scrapy crawl swg -a start_id=63580 -a end_id=66469 -s CONCURRENT_REQUESTS=8
+start "swg_start_66470_end_69359" scrapy crawl swg -a start_id=66470 -a end_id=69359 -s CONCURRENT_REQUESTS=8
+start "swg_start_69360_end_72249" scrapy crawl swg -a start_id=69360 -a end_id=72249 -s CONCURRENT_REQUESTS=8
+start "swg_start_72250_end_75138" scrapy crawl swg -a start_id=72250 -a end_id=75138 -s CONCURRENT_REQUESTS=8
+start "swg_start_75139_end_78027" scrapy crawl swg -a start_id=75139 -a end_id=78027 -s CONCURRENT_REQUESTS=8
+start "swg_start_78028_end_80916" scrapy crawl swg -a start_id=78028 -a end_id=80916 -s CONCURRENT_REQUESTS=8
+start "swg_start_80917_end_83805" scrapy crawl swg -a start_id=80917 -a end_id=83805 -s CONCURRENT_REQUESTS=8
+start "swg_start_83806_end_86694" scrapy crawl swg -a start_id=83806 -a end_id=86694 -s CONCURRENT_REQUESTS=8
